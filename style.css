@@ -300,6 +300,10 @@
     /* right: 20%; */
 }
 .last-skill-element {
+    font-size: var(--size-medium);
+    color: #ff0000;
+    text-shadow: 0.15em 0.1em 0.1em #ff9a00;
+    
     background-image: linear-gradient(to top,#ff0000 20%,#ff5a00 40%, #ff9a00);
     box-shadow: 0 0.2rem 0.8rem 0.7rem #ff0000;
     animation: fireglow 3s ease infinite;
